@@ -55,7 +55,7 @@
 		</div></a>
 		<a href="">
 		<div class="contenedor" id="cuatro">
-			<img class="icon" src="../Imagenes/Administrativo/operador.png">
+			<img class="icon" src="ola diego ">
 			<p class="texto"></p>
 		</div></a>
 
