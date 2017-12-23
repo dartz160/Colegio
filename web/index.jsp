@@ -39,7 +39,7 @@
         <div id="header">
 		<a href="Proceso1/CrearProceso.php">
 		<div class="contenedor" id="uno">
-			<img class="icon" src="Estilos/Imagenes/crear_proceso.png">
+			<img class="icon" src="Estilos/olidiego/Imagenes/crear_proceso.png">
 			<p class="texto"></p>
 		</div></a>
 		<a href="">
